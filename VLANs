@@ -1,0 +1,6 @@
+
+
+interface gigabitEthernet 1/0/6
+switchport access vlan 300
+
+show interface gigabitEthernet 1/0/1 switchport
